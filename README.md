@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **{Co(de}code)** · Team ID `VTU-QFF-HC-0176` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#{Co(de}code))
+[⬆ Back to Top](#codecode)
 
 </div>
